@@ -1,0 +1,98 @@
+Practice problem - 1
+
+Write a function template swapValues that swaps two variables of any data type.
+
+Sample input/output :
+
+1 2                     2 1
+
+Nafisa Moeen            Moeen Nafisa
+
+1.2 2.5                 2.5 1.2
+
+
+
+Practice problems
+
+2. Write a template function findMax that takes an array of any type and returns the
+maximum element.
+
+3. Write a program that counts the frequency of each string in a given series of input of
+strings. Firstly take input what is the number of series(Use C++ STL)
+
+Input: 5
+
+“ hello ; cse205; world; world; hello"
+
+Output:
+
+cse205 -> 1
+
+hello -> 2
+
+world -> 2
+
+Practice problems
+
+4. Write a class template Calculator<T> with functions to add, subtract, multiply, and divide
+two numbers.
+
+Create objects of type int, float, and double to test.
+
+Handle division by zero gracefully
+
+5. Create a template function compareAndPrint between 2 different types data which one is
+greater and which is smaller or if equal , print “equal”
+
+Practice problems
+
+4. Write a class template Calculator<T> with functions to add, subtract, multiply, and divide
+two numbers.
+
+Create objects of type int, float, and double to test.
+
+Handle division by zero gracefully
+
+5. Create a template function compareAndPrint between 2 different types data which one is
+greater and which is smaller or if equal , print “equal”
+
+Practice problems
+
+6. Write a class template that stores two different values (like std::pair).
+
+Implement a method display() to print them.
+
+7. Write a program to:
+
+Take n integers into a vector.
+
+Find and print the maximum and minimum element (use *max_element,
+*min_element).
+
+Sort the vector from ascending to descending and viceversa
+
+Print the final vector.
+
+Practice problems
+
+8. Build a small dictionary using map<string, vector<string>> where each word maps to a
+list of synonyms.
+
+happy → {“joyful”, “cheerful”, “content”}
+
+fast → {“quick”, “rapid”, “speedy”}
+
+Some resources to practice C++ STL
+
+https://codeforces.com/blog/entry/123251 (You can practice vector & Map mainly) as from
+these two topics questions can come. Other topics of STL are optional for you to practice
+other than your academics.
+https://leetcode.com/discuss/post/1154632/c-stl-powerful-guide-compiled-list-of-po-bk91/
+
+(C++ C++ STL powerful guide | Compiled list of popular STL operations)
+
+Try out some combinations of Template & C++ STL
+
+https://www.w3resource.com/cpp-exercises/vector/index.php
+
+https://www.geeksforgeeks.org/problems/c-stl-set-3-map/1
